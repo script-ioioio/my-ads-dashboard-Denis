@@ -1,8 +1,8 @@
 {
-  "last_updated": "01.11.2026, 21:36",
+  "last_updated": "02.11.2026, 03:54",
   "fetched_range": {
     "since": "2026-03-09",
-    "until": "2026-11-01"
+    "until": "2026-11-02"
   },
   "plan": {
     "monthly_budget": 7500,
@@ -36,7 +36,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:40 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:18 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -47,7 +47,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:40 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:18 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -58,7 +58,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:40 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:18 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -69,7 +69,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:40 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:19 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -80,7 +80,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:40 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:19 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -91,7 +91,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:41 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:19 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -102,18 +102,18 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:41 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:19 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
         "level": "account",
         "since": "2026-10-05",
-        "until": "2026-11-01",
+        "until": "2026-11-02",
         "http_status": 400,
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:41 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:19 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -124,7 +124,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:41 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:19 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -135,7 +135,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:42 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:19 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -146,7 +146,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:42 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:19 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -157,7 +157,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:42 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:19 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -168,7 +168,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:42 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:19 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -179,7 +179,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:42 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:19 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -190,18 +190,18 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:43 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:20 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
         "level": "campaign",
         "since": "2026-10-05",
-        "until": "2026-11-01",
+        "until": "2026-11-02",
         "http_status": 400,
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:43 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:20 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -212,7 +212,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:43 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:20 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -223,7 +223,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:43 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:20 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -234,7 +234,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:44 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:20 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -245,7 +245,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:44 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:20 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -256,7 +256,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:44 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:20 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -267,7 +267,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:44 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:20 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -278,7 +278,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:45 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:20 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -289,7 +289,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:45 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:20 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -300,7 +300,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:45 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:21 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -311,7 +311,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:45 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:21 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -322,7 +322,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:45 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:21 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -333,7 +333,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:47 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:21 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -344,7 +344,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:47 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:21 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -355,7 +355,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:47 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:21 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -366,7 +366,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:47 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:21 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -377,7 +377,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:47 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:21 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -388,7 +388,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:48 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:21 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -399,7 +399,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:48 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:21 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -410,7 +410,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:48 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:21 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -421,7 +421,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:48 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:21 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -432,7 +432,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:49 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:22 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -443,7 +443,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:49 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:22 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -454,7 +454,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:49 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:22 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -465,7 +465,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:49 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:22 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -476,7 +476,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:49 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:22 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -487,7 +487,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:50 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:22 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -498,7 +498,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:50 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:22 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -509,7 +509,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:50 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:22 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -520,7 +520,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:50 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:22 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -531,7 +531,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:50 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:22 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -542,7 +542,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:51 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:22 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -553,7 +553,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:51 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:23 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -564,7 +564,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:51 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:23 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -575,7 +575,18 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:51 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:23 PST."
+      },
+      {
+        "endpoint": "act_453294164294463/insights",
+        "level": "adset",
+        "since": "2026-11-02",
+        "until": "2026-11-02",
+        "http_status": 400,
+        "code": 190,
+        "error_subcode": null,
+        "is_transient": false,
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:23 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -586,7 +597,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:52 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:23 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -597,7 +608,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:52 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:23 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -608,7 +619,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:52 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:23 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -619,7 +630,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:52 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:23 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -630,7 +641,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:52 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:23 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -641,7 +652,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:53 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:23 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -652,7 +663,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:53 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:23 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -663,7 +674,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:53 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:24 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -674,7 +685,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:53 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:24 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -685,7 +696,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:54 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:24 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -696,7 +707,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:54 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:24 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -707,7 +718,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:54 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:24 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -718,7 +729,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:54 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:24 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -729,7 +740,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:54 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:24 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -740,7 +751,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:55 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:24 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -751,7 +762,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:55 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:24 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -762,7 +773,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:55 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:24 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -773,7 +784,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:55 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:24 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -784,7 +795,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:55 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:24 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -795,7 +806,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:56 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:25 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -806,7 +817,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:56 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:25 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -817,7 +828,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:56 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:25 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -828,7 +839,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:56 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:25 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -839,7 +850,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:57 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:25 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -850,7 +861,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:57 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:25 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -861,7 +872,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:57 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:25 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -872,7 +883,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:57 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:25 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -883,7 +894,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:57 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:25 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -894,7 +905,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:58 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:25 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -905,7 +916,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:58 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:25 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -916,7 +927,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:58 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:26 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -927,7 +938,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:58 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:26 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -938,7 +949,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:59 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:26 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -949,7 +960,18 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:59 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:26 PST."
+      },
+      {
+        "endpoint": "act_453294164294463/insights",
+        "level": "ad",
+        "since": "2026-11-02",
+        "until": "2026-11-02",
+        "http_status": 400,
+        "code": 190,
+        "error_subcode": null,
+        "is_transient": false,
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:26 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -960,7 +982,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:59 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:26 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -971,7 +993,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:59 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:26 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -982,7 +1004,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:00 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:26 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -993,7 +1015,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:00 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:26 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -1004,7 +1026,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:00 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:26 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -1015,7 +1037,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:00 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:27 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -1026,18 +1048,18 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:01 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:27 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
         "level": "age_gender",
         "since": "2026-10-05",
-        "until": "2026-11-01",
+        "until": "2026-11-02",
         "http_status": 400,
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:01 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:27 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -1048,7 +1070,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:01 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:27 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -1059,7 +1081,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:01 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:27 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -1070,7 +1092,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:01 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:27 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -1081,7 +1103,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:02 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:27 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -1092,7 +1114,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:02 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:27 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -1103,7 +1125,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:02 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:27 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
@@ -1114,18 +1136,18 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:02 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:27 PST."
       },
       {
         "endpoint": "act_453294164294463/insights",
         "level": "device",
         "since": "2026-10-05",
-        "until": "2026-11-01",
+        "until": "2026-11-02",
         "http_status": 400,
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:03 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:27 PST."
       }
     ],
     "failed_sections": [
@@ -1136,7 +1158,7 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:43 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:20 PST."
       },
       {
         "section": "ads_meta",
@@ -1145,52 +1167,52 @@
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:35:59 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:26 PST."
       },
       {
-        "section": "reach 2026-10-26..2026-11-01",
+        "section": "reach 2026-10-27..2026-11-02",
         "endpoint": "act_453294164294463/insights",
         "http_status": 400,
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:03 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:27 PST."
       },
       {
-        "section": "reach 2026-10-19..2026-11-01",
+        "section": "reach 2026-10-20..2026-11-02",
         "endpoint": "act_453294164294463/insights",
         "http_status": 400,
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:03 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:28 PST."
       },
       {
-        "section": "reach 2026-10-03..2026-11-01",
+        "section": "reach 2026-10-04..2026-11-02",
         "endpoint": "act_453294164294463/insights",
         "http_status": 400,
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:03 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:28 PST."
       },
       {
-        "section": "reach 2026-11-01..2026-11-01",
+        "section": "reach 2026-11-01..2026-11-02",
         "endpoint": "act_453294164294463/insights",
         "http_status": 400,
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:03 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:28 PST."
       },
       {
-        "section": "reach 2026-03-09..2026-11-01",
+        "section": "reach 2026-03-09..2026-11-02",
         "endpoint": "act_453294164294463/insights",
         "http_status": 400,
         "code": 190,
         "error_subcode": null,
         "is_transient": false,
-        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 13:36:04 PST."
+        "message": "The token has expired on Friday, 25-Sep-26 05:10:28 PDT. The current time is Sunday, 01-Nov-26 19:54:28 PST."
       }
     ]
   }
